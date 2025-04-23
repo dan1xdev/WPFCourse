@@ -1,0 +1,16 @@
+﻿<Window x:Class="GuessNumberGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Угадай число" Height="300" Width="350">
+    <StackPanel Margin="15">
+        <Label Content="{Binding HintText}" FontSize="16" FontWeight="Bold"/>
+        <TextBox Text="{Binding UserInput, UpdateSourceTrigger=PropertyChanged}" 
+                 FontSize="16" Margin="0,10"/>
+        <Button Content="Проверить" Click="CheckButton_Click" 
+                FontSize="16" Padding="10,5" Margin="0,0,0,10"/>
+        <Label Content="{Binding ResultMessage}" FontSize="14"/>
+        <Label Content="{Binding AttemptsText}" FontSize="14"/>
+        <Button Content="Новая игра" Click="NewGameButton_Click" 
+                FontSize="16" Padding="10,5" Margin="0,10"/>
+    </StackPanel>
+</Window>

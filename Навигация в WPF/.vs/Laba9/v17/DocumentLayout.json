@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kisda\\source\\repos\\Laba9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A18C58-4B42-453B-ADD2-778BA0E61B76}|Laba9\\Laba9.csproj|c:\\users\\kisda\\source\\repos\\laba9\\laba9\\page3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A18C58-4B42-453B-ADD2-778BA0E61B76}|Laba9\\Laba9.csproj|solutionrelative:laba9\\page3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A18C58-4B42-453B-ADD2-778BA0E61B76}|Laba9\\Laba9.csproj|c:\\users\\kisda\\source\\repos\\laba9\\laba9\\page3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A8A18C58-4B42-453B-ADD2-778BA0E61B76}|Laba9\\Laba9.csproj|solutionrelative:laba9\\page3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A18C58-4B42-453B-ADD2-778BA0E61B76}|Laba9\\Laba9.csproj|c:\\users\\kisda\\source\\repos\\laba9\\laba9\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A18C58-4B42-453B-ADD2-778BA0E61B76}|Laba9\\Laba9.csproj|solutionrelative:laba9\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A18C58-4B42-453B-ADD2-778BA0E61B76}|Laba9\\Laba9.csproj|c:\\users\\kisda\\source\\repos\\laba9\\laba9\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A8A18C58-4B42-453B-ADD2-778BA0E61B76}|Laba9\\Laba9.csproj|solutionrelative:laba9\\page2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A18C58-4B42-453B-ADD2-778BA0E61B76}|Laba9\\Laba9.csproj|c:\\users\\kisda\\source\\repos\\laba9\\laba9\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A18C58-4B42-453B-ADD2-778BA0E61B76}|Laba9\\Laba9.csproj|solutionrelative:laba9\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A18C58-4B42-453B-ADD2-778BA0E61B76}|Laba9\\Laba9.csproj|c:\\users\\kisda\\source\\repos\\laba9\\laba9\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A8A18C58-4B42-453B-ADD2-778BA0E61B76}|Laba9\\Laba9.csproj|solutionrelative:laba9\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A18C58-4B42-453B-ADD2-778BA0E61B76}|Laba9\\Laba9.csproj|c:\\users\\kisda\\source\\repos\\laba9\\laba9\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8A18C58-4B42-453B-ADD2-778BA0E61B76}|Laba9\\Laba9.csproj|solutionrelative:laba9\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8A18C58-4B42-453B-ADD2-778BA0E61B76}|Laba9\\Laba9.csproj|c:\\users\\kisda\\source\\repos\\laba9\\laba9\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A8A18C58-4B42-453B-ADD2-778BA0E61B76}|Laba9\\Laba9.csproj|solutionrelative:laba9\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Page3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kisda\\source\\repos\\Laba9\\Laba9\\Page3.xaml.cs",
+              "RelativeDocumentMoniker": "Laba9\\Page3.xaml.cs",
+              "ToolTip": "C:\\Users\\kisda\\source\\repos\\Laba9\\Laba9\\Page3.xaml.cs",
+              "RelativeToolTip": "Laba9\\Page3.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:11:32.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kisda\\source\\repos\\Laba9\\Laba9\\Page2.xaml.cs",
+              "RelativeDocumentMoniker": "Laba9\\Page2.xaml.cs",
+              "ToolTip": "C:\\Users\\kisda\\source\\repos\\Laba9\\Laba9\\Page2.xaml.cs",
+              "RelativeToolTip": "Laba9\\Page2.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:11:12.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Page1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kisda\\source\\repos\\Laba9\\Laba9\\Page1.xaml.cs",
+              "RelativeDocumentMoniker": "Laba9\\Page1.xaml.cs",
+              "ToolTip": "C:\\Users\\kisda\\source\\repos\\Laba9\\Laba9\\Page1.xaml.cs",
+              "RelativeToolTip": "Laba9\\Page1.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T19:09:32.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Page3.xaml",
+              "DocumentMoniker": "C:\\Users\\kisda\\source\\repos\\Laba9\\Laba9\\Page3.xaml",
+              "RelativeDocumentMoniker": "Laba9\\Page3.xaml",
+              "ToolTip": "C:\\Users\\kisda\\source\\repos\\Laba9\\Laba9\\Page3.xaml",
+              "RelativeToolTip": "Laba9\\Page3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T19:03:05.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "C:\\Users\\kisda\\source\\repos\\Laba9\\Laba9\\Page2.xaml",
+              "RelativeDocumentMoniker": "Laba9\\Page2.xaml",
+              "ToolTip": "C:\\Users\\kisda\\source\\repos\\Laba9\\Laba9\\Page2.xaml",
+              "RelativeToolTip": "Laba9\\Page2.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T19:00:30.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\kisda\\source\\repos\\Laba9\\Laba9\\Page1.xaml",
+              "RelativeDocumentMoniker": "Laba9\\Page1.xaml",
+              "ToolTip": "C:\\Users\\kisda\\source\\repos\\Laba9\\Laba9\\Page1.xaml",
+              "RelativeToolTip": "Laba9\\Page1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T19:00:09.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kisda\\source\\repos\\Laba9\\Laba9\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Laba9\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\kisda\\source\\repos\\Laba9\\Laba9\\MainWindow.xaml",
+              "RelativeToolTip": "Laba9\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-14T18:59:25.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kisda\\source\\repos\\Laba9\\Laba9\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Laba9\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kisda\\source\\repos\\Laba9\\Laba9\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Laba9\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:59:25.566Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

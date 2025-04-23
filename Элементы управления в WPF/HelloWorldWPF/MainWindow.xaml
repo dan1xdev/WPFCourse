@@ -1,0 +1,35 @@
+﻿<Window x:Name="MyWindow" x:Class="HelloWorldWPF.MainWindow"
+
+xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+ Background="Azure"
+ Title="Калькулятор"
+ Height="600" Width="612">
+
+    <Grid Margin="0,0,0,-6">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="Btn1" Content="1" Margin="128,266,118,266" FontSize="18" Click="Btn1_Click"/>
+        <Button x:Name="Btn2" Content="2" Margin="193,266,64,266" FontSize="18" Click="Btn2_Click"/>
+        <Button x:Name="Btn3" Content="3" Margin="247,266,10,266" FontSize="18" Click="Btn3_Click"/>
+        <Button x:Name="Btn4" Content="4" Margin="301,266,261,266" FontSize="18" Click="Btn4_Click" Grid.ColumnSpan="2"/>
+        <Button x:Name="Btn5" Content="5" Margin="50,266,204,266" FontSize="18" Click="Btn5_Click" Grid.Column="1"/>
+        <Button x:Name="Btn6" Content="6" Margin="107,266,147,266" FontSize="18" Click="Btn6_Click" Grid.Column="1"/>
+        <Button x:Name="Btn7" Content="7" Margin="128,329,118,203" FontSize="18" Click="Btn7_Click"/>
+        <Button x:Name="Btn8" Content="8" Margin="193,329,64,203" FontSize="18" Click="Btn8_Click"/>
+        <Button x:Name="Btn9" Content="9" Margin="247,329,10,203" FontSize="18" Click="Btn9_Click"/>
+        <Button x:Name="Btn0" Content="0" Margin="302,329,261,203" FontSize="18" Click="Btn0_Click" Grid.ColumnSpan="2"/>
+        <Button x:Name="CBtn" Content="C" Margin="50,329,204,203" FontSize="18" Click="CBtn_Click" Grid.Column="1"/>
+        <Button x:Name="EqualBtn" Content="=" Margin="107,329,147,203" FontSize="18" Click="EqualBtn_Click" Grid.Column="1"/>
+        <Button x:Name="PlusBtn" Content="+" Margin="128,392,118,140" FontSize="18" Click="PlusBtn_Click"/>
+        <Button x:Name="MinusBtn" Content="-" Margin="193,392,64,140" FontSize="18" Click="MinusBtn_Click"/>
+        <Button x:Name="MultyplyBtn" Content="*" Margin="247,392,10,140" FontSize="18" Click="MultyplyBtn_Click"/>
+        <Button x:Name="DivBtn" Content="/" Margin="301,392,261,140" FontSize="18" RenderTransformOrigin="1.755,0.5" Click="DivBtn_Click" Grid.ColumnSpan="2"/>
+        <TextBlock x:Name="Display" HorizontalAlignment="Left" Height="148" Margin="128,88,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="337" Foreground="Black" FontFamily="Arial Black" FontSize="22" FontWeight="Bold" Grid.ColumnSpan="2" LineHeight="10" Text="" RenderTransformOrigin="0.5,0" Background="#FFA4FFBF"/>
+        <Button x:Name="FloatBtn" Content="." Margin="0,392,204,140" FontSize="18" Click="FloatBtn_Click" Grid.Column="1" HorizontalAlignment="Right" Width="52" RenderTransformOrigin="0.3,0.483"/>
+        <Button x:Name="BracketBtn" Content="( )" Margin="107,392,147,140" FontSize="18" Grid.Column="1" Click="BracketBtn_Click"/>
+        <TextBlock x:Name="HistoryText" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="74" Margin="0,506,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="612"><Run Language="ru-ru" Text=" История вычислений"/><Run Text=":  "/></TextBlock>
+    </Grid>
+</Window>

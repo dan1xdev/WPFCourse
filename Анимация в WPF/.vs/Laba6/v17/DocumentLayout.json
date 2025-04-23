@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kisda\\source\\repos\\Laba6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98554BDA-A963-4ADE-9CAE-59EEA510C80A}|Laba6\\Laba6.csproj|c:\\users\\kisda\\source\\repos\\laba6\\laba6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{98554BDA-A963-4ADE-9CAE-59EEA510C80A}|Laba6\\Laba6.csproj|solutionrelative:laba6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98554BDA-A963-4ADE-9CAE-59EEA510C80A}|Laba6\\Laba6.csproj|C:\\Users\\kisda\\source\\repos\\Laba6\\laba6\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{98554BDA-A963-4ADE-9CAE-59EEA510C80A}|Laba6\\Laba6.csproj|solutionrelative:laba6\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98554BDA-A963-4ADE-9CAE-59EEA510C80A}|Laba6\\Laba6.csproj|C:\\Users\\kisda\\source\\repos\\Laba6\\laba6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98554BDA-A963-4ADE-9CAE-59EEA510C80A}|Laba6\\Laba6.csproj|solutionrelative:laba6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kisda\\source\\repos\\Laba6\\Laba6\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Laba6\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\kisda\\source\\repos\\Laba6\\Laba6\\MainWindow.xaml",
+              "RelativeToolTip": "Laba6\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-16T09:25:26.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\kisda\\source\\repos\\Laba6\\Laba6\\App.xaml",
+              "RelativeDocumentMoniker": "Laba6\\App.xaml",
+              "ToolTip": "C:\\Users\\kisda\\source\\repos\\Laba6\\Laba6\\App.xaml",
+              "RelativeToolTip": "Laba6\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-16T09:25:25.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kisda\\source\\repos\\Laba6\\Laba6\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Laba6\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kisda\\source\\repos\\Laba6\\Laba6\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Laba6\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:06:24.931Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

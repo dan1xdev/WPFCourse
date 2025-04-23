@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kisda\\source\\repos\\HelloWorldWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE464EB-4E04-46EB-A5CC-3AE7A546C813}|HelloWorldWPF\\HelloWorldWPF.csproj|c:\\users\\kisda\\source\\repos\\helloworldwpf\\helloworldwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CE464EB-4E04-46EB-A5CC-3AE7A546C813}|HelloWorldWPF\\HelloWorldWPF.csproj|solutionrelative:helloworldwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kisda\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE464EB-4E04-46EB-A5CC-3AE7A546C813}|HelloWorldWPF\\HelloWorldWPF.csproj|c:\\users\\kisda\\source\\repos\\helloworldwpf\\helloworldwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3CE464EB-4E04-46EB-A5CC-3AE7A546C813}|HelloWorldWPF\\HelloWorldWPF.csproj|solutionrelative:helloworldwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CE464EB-4E04-46EB-A5CC-3AE7A546C813}|HelloWorldWPF\\HelloWorldWPF.csproj|c:\\users\\kisda\\source\\repos\\helloworldwpf\\helloworldwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3CE464EB-4E04-46EB-A5CC-3AE7A546C813}|HelloWorldWPF\\HelloWorldWPF.csproj|solutionrelative:helloworldwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\kisda\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\kisda\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\ee34aec267e065140087abd7fd236fad482e6d3ee1f4162ad1b181c8d9923474\\XamlReader.cs",
+              "ViewState": "AgIAAFcCAAAAAAAAAAAAAP4BAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T15:35:20.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\kisda\\source\\repos\\HelloWorldWPF\\HelloWorldWPF\\App.xaml",
+              "RelativeDocumentMoniker": "HelloWorldWPF\\App.xaml",
+              "ToolTip": "C:\\Users\\kisda\\source\\repos\\HelloWorldWPF\\HelloWorldWPF\\App.xaml",
+              "RelativeToolTip": "HelloWorldWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-09T14:33:12.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\kisda\\source\\repos\\HelloWorldWPF\\HelloWorldWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HelloWorldWPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\kisda\\source\\repos\\HelloWorldWPF\\HelloWorldWPF\\MainWindow.xaml",
+              "RelativeToolTip": "HelloWorldWPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-09T15:19:32.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kisda\\source\\repos\\HelloWorldWPF\\HelloWorldWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HelloWorldWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\kisda\\source\\repos\\HelloWorldWPF\\HelloWorldWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HelloWorldWPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAkwFAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T14:00:02.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

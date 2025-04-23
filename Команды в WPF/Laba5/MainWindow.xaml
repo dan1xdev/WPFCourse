@@ -1,0 +1,27 @@
+﻿<Window x:Class="SimpleNotepad.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Мой блокнот" Height="450" Width="600">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Menu Grid.Row="0">
+            <MenuItem Header="Файл">
+                <MenuItem Header="Новый" Command="ApplicationCommands.New"/>
+                <MenuItem Header="Открыть..." Command="ApplicationCommands.Open"/>
+                <MenuItem Header="Сохранить" Command="ApplicationCommands.Save"/>
+                <Separator/>
+                <MenuItem Header="Выход" Click="Exit_Click"/>
+            </MenuItem>
+        </Menu>
+
+        <TextBox x:Name="TextArea" Grid.Row="1" 
+                 AcceptsReturn="True" 
+                 AcceptsTab="True"
+                 VerticalScrollBarVisibility="Auto"
+                 HorizontalScrollBarVisibility="Auto"/>
+    </Grid>
+</Window>
